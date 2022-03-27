@@ -1,11 +1,10 @@
 {
-    "name": "express-application-1",
-    "version": "1.0.0",
+    "name": "express-application",
+    "version": "1.0.1",
     "description": "",
     "main": "src/server.ts",
     "scripts": {
-        "start": "node build/server.js",
-        "postinstall": "tsc"
+        "start": "node build/server.js"
     },
     "author": "",
     "license": "MIT",
